@@ -1,4 +1,4 @@
-# Setup
+# Setup 2
 
 💡 **About ArgoCD**
 
